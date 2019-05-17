@@ -6,7 +6,7 @@ with open ('README.md', 'r') as README:
 
 setup (
     name = 'DavesLogger',
-    version = '1.0.0',
+    version = '1.0.1',
     packages = ['DavesLogger'],
     author = 'Munchii',
     author_email = 'contact@munchii.me',
